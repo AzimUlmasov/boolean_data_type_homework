@@ -6,5 +6,10 @@ def main(a):
     Returns:
         bool
     """
+    
     # Write your code here
-    return 
+    x = a % 2 == 0
+
+    return x
+
+print(main(5))
