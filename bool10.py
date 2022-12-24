@@ -11,4 +11,4 @@ def main(a):
     x = sqrt(a) % 1 == 0
     return x
 
-print(main(121))
+print(main(9))
