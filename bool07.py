@@ -8,4 +8,8 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return 
+    x = a != b
+
+    return x
+print(main(3, 1))
+
